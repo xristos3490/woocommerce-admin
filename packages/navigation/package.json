@@ -23,7 +23,7 @@
 	"dependencies": {
 		"@babel/runtime-corejs2": "7.12.5",
 		"@woocommerce/experimental": "file:../experimental",
-		"history": "4.10.1",
+		"history": "5.0.0",
 		"lodash": "4.17.15",
 		"qs": "6.9.4"
 	},
