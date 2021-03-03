@@ -2,6 +2,11 @@
 
 ## Unreleased
 
+### Update all strings and labels in analytics to use sentence case #6501
+
+1. Run this branch
+2. Check each page of the analytics, and all available sub-menus to ensure all strings are now presented in sentence case
+
 ### Fix double prefixing of navigation URLs #6460
 
 1. Register a navigation menu item with a full URL or admin link.

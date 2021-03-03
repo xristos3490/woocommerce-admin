@@ -89,6 +89,7 @@ Release and roadmap notes are available on the [WooCommerce Developers Blog](htt
 - Fix: Update payment card style on mobile #6413
 - Fix: Missing i18n in Welcome modal. #6456
 - Fix: Restore visual styles back to Analytics tabs. #5913
+- Fix: Change all analytics strings and labels to sentence case. #6501
 
 == 2.1.0 ==
 
