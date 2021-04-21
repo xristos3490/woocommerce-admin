@@ -29,6 +29,7 @@ export {
 	default as List,
 	ExperimentalList,
 	ExperimentalListItem,
+	ListItemCollapse,
 } from './list';
 export { default as MenuItem } from './ellipsis-menu/menu-item';
 export { default as MenuTitle } from './ellipsis-menu/menu-title';
