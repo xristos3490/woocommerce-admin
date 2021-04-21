@@ -28,7 +28,7 @@
 		"@automattic/explat-client": "0.0.1",
 		"@automattic/explat-client-react-helpers": "0.0.1",
 		"cookie": "^0.4.1",
-		"qs": "6.9.6"
+		"qs": "6.10.1"
 	},
 	"devDependencies": {
 		"@types/cookie": "^0.4.0"

@@ -55,7 +55,7 @@
 		"md5": "2.3.0",
 		"moment": "2.29.1",
 		"prop-types": "15.7.2",
-		"qs": "6.9.6",
+		"qs": "6.10.1",
 		"react-dates": "^17.2.0",
 		"react-router-dom": "5.2.0",
 		"react-transition-group": "4.4.1"
